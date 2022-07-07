@@ -1,0 +1,10 @@
+
+
+
+
+====> player 1 and 2 roll their dices by clicking on roll dice and once they click on hold option,
+      a function called to gather the total score.
+      If the rolled dice was 1, a function called to set the current score to 0 and 
+      switch the play from the current player to the other.
+      The winner is whoever rich the total score of 100. 
+      New game option sets all properties to the initial statut.
